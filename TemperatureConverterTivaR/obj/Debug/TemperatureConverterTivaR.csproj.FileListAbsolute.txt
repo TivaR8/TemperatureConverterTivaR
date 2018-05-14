@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\bin\Debug\TemperatureConverterTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\bin\Debug\TemperatureConverterTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\bin\Debug\TemperatureConverterTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.frmTempConverter.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\TemperatureConverterTivaR\TemperatureConverterTivaR\obj\Debug\TemperatureConverterTivaR.pdb
